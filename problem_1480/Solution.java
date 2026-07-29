@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Solution {
     public static int[] runningSum(int[] nums) {
         int[] runningSum = new int[nums.length];
         int sum = 0;
