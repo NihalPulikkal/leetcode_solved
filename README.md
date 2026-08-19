@@ -1,11 +1,24 @@
-# LeetCode
+# Java compiled files
 
-My journey of solving LeetCode problems.
+\*.class
 
-## Goal
+# Java build/output directories
 
-Solve problems consistently and improve my problem-solving skills.
+out/
+target/
+bin/
 
-## Language
+# IDE files
 
-- Java
+.idea/
+.vscode/
+\*.iml
+
+# macOS files
+
+.DS_Store
+
+# Temporary files
+
+_.tmp
+_.log
