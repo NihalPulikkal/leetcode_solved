@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+
+# Build directories
+out/
+target/
+bin/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
